@@ -1,0 +1,9 @@
+Translated (src = de, dest = es, text = Translated (src = ru, dest = de, text = Translated (src = ja, dest = ru, text = Translated (src = en, dest = ja, text = The economy India is based on agriculture or India is an agricultural economy, which means that India's national income is 70% of its agricultural income.
+
+Before independence, the economy was 95% dependent on agriculture and farm income. [one]
+
+It is worth noting that approximately 85% of the population lives in villages and agriculture is the only means of survival.
+
+In terms of agriculture, the state of the Indian economy on the eve of independence was disappointing.
+
+Agriculture has faced recession and economic stagnation, even if it was the most important sector. , Pronunciation = [[]], extra_data = "{'translation ..."), pronunciation = [[], []], extra_data = "{' translation ..."), pronunciation = [[], [] ], extra_data = "{'translat ..."), pronunciation = [[], []], extra_data = "{' translat ...")
